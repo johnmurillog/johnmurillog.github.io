@@ -32,7 +32,7 @@ Senior Platform Engineer & Cloud Architect with 17+ years of experience designin
 **Cloud Platforms:** Microsoft Azure, AWS, GCP, Hybrid & Multi-Cloud Architectures  
 **Infrastructure as Code:** Terraform, Ansible, GitOps  
 **Containerization:** Kubernetes, Docker, GKE, AWS ECS  
-**Programming:** Go (Golang), Python, Bash, PowerShell  
+**Programming:** Go (Golang), Modern C (C23 standard), Python, Bash, PowerShell  
 **DevOps/SRE:** Prometheus, Grafana, Jenkins, GitLab CI/CD, SRE Practices  
 **Security:** DevSecOps, CSPM, Compliance as Code, Infrastructure Security  
 
