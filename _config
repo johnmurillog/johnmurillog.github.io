@@ -1,0 +1,30 @@
+title: "John Murillo-Giraldo - Portfolio"
+description: "Platform Engineering | DevOps | Software Engineering Portfolio"
+theme: jekyll-theme-minimal
+
+# My personal information
+name: "John Murillo-Giraldo"
+email: "johnmurillog@outlook.com"
+github_username: johnmurillog
+linkedin_username: johnmurillog
+website: "https://johnmurillog.github.io"
+
+# My social links
+linkedin: "johnmurillog"
+github: "johnmurillog"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# My site settings
+baseurl: "" 
+url: "https://johnmurillog.github.io"
+
+# My career focus
+career_focus: "Platform Engineering, DevOps, Software Engineering"
+
+# SEO Optimization
+lang: "en"
+keywords: "platform engineering, devops, software engineer, distributed systems, backend development, portfolio, John Murillo-Giraldo"
